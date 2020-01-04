@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tolstoy", "Tolstoy\Tolstoy.fsproj", "{AC5663B4-A5FD-4ADE-97F5-4000615C6475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC5663B4-A5FD-4ADE-97F5-4000615C6475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5663B4-A5FD-4ADE-97F5-4000615C6475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5663B4-A5FD-4ADE-97F5-4000615C6475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5663B4-A5FD-4ADE-97F5-4000615C6475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B25A3853-6B51-4819-B6E1-EFB87B671D01}
+	EndGlobalSection
+EndGlobal
